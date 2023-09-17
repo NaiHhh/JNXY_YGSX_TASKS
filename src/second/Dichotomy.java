@@ -1,4 +1,4 @@
-package third;
+package second;
 
 import java.util.Arrays;
 public class Dichotomy {
